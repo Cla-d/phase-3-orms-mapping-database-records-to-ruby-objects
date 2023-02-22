@@ -1,0 +1,4 @@
+# A method that calculates the century where a year belongs.
+# if the year is less than 100 the century is 1
+# if the year gives a whole number when devided by a hundrend the number given translates to the century
+# if the year dive a remainder once divided by a hundrend the century is the whole number plus one. 
